@@ -1,0 +1,4 @@
+[submodule "simple-quantum-simulator"]
+	path = simple-quantum-simulator
+	url = https://github.com/Shiro-Raven/simple-quantum-simulator.git
+	branch = main
